@@ -1,0 +1,35 @@
+[  
+   {  
+      "id": 1 ,
+      "project": 1,
+      "name": "Some task",
+      "description":"description of the task",
+      "due": "",
+      "dueDate": false,
+      "timesDone": 1,
+      "doneBefore": false,
+      "isDone": false
+   },
+     {  
+      "id": 2,
+      "project": 2,
+      "name": "NotDooneTask",
+      "description":"description of the task",
+      "due": "",
+      "dueDate": false,
+      "timesDone": 2,
+      "doneBefore":true,
+      "isDone": false
+   },
+    {  
+      "id":3,
+      "project": 1,
+      "name": "Fix user is Done",
+      "description": "description of the task",
+      "due": "",
+      "dueDate": false,
+      "timesDone":0,
+      "doneBefore":false,
+      "isDone": true
+   }
+]
