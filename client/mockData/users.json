@@ -1,0 +1,37 @@
+[  
+   {  
+      "id":"1",
+      "username":"FirstUser",
+      "emailAddress":"testuser@yourmail.com",
+      "phoneNumber":"11111111",
+      "firstName":"",
+      "lastName":"",
+      "middleInitial":"",
+      "costCenter":"",
+      "address":"",
+      "street":"",
+      "city":"",
+      "zipCode":"",
+      "state":"",
+      "country":"",
+      "lockStatus": false
+   },
+   {  
+      "id":"2",
+      "username":"SecondUser",
+      "emailAddress":"testuser@yourmail.com",
+      "phoneNumber":"222222222",
+      "firstName":"",
+      "lastName":"",
+      "middleInitial":"",
+      "costCenter":"",
+      "address":"",
+      "street":"",
+      "city":"",
+      "zipCode":"",
+      "state":"",
+      "country":"",
+      "lockStatus": false
+
+   }
+]
