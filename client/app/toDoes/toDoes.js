@@ -3,8 +3,8 @@
 angular.module('doTheToDoApp')
   .config(function ($stateProvider) {
     $stateProvider
-      .state('about', {
-        url: '/about',
+      .state('doDoes', {
+        url: '/doDoes',
         templateUrl: 'app/about/views/about.html',
         controller: 'AboutCtrl'
       });
